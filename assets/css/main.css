@@ -2706,6 +2706,11 @@ input, select, textarea {
 		font-size: 1.2em;
 	}
 
+	.project-about {
+		margin: 10px;
+		text-align: left;
+	}
+
 	.flex-container-col {
 		display: flex;
 		justify-content: center;
